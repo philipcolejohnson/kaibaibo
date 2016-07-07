@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-Kaibaibo.start
+At the command line, use:
+
+    $ kaibaibo
 
 ## Development
 
