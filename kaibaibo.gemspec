@@ -6,7 +6,7 @@ require 'kaibaibo/version'
 Gem::Specification.new do |spec|
   spec.name          = "kaibaibo"
   spec.version       = Kaibaibo::VERSION
-  spec.authors       = ["Philip Cole Johnson"]
+  spec.authors       = ["Philip Cole Johnson, Adrian Mui"]
   spec.email         = ["philipcolejohnson@gmail.com"]
 
   spec.summary       = %q{Plays a Korean version of Rock Paper Scissors}
