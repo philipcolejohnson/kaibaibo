@@ -1,7 +1,7 @@
 require "kaibaibo/version"
-require "lib/game"
-require "lib/player"
-require "lib/compplayer"
+require "kaibaibo/game"
+require "kaibaibo/player"
+require "kaibaibo/compplayer"
 
 module Kaibaibo
 
